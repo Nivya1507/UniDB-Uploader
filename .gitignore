@@ -1,0 +1,16 @@
+# Compiler toolchain (portable binaries)
+w64devkit/
+w64devkit.exe
+
+# Compiled binaries
+server.exe
+*.exe
+*.o
+*.obj
+
+# Logs and temporary files
+*.log
+.vscode/
+.idea/
+.agents/
+.gemini/
